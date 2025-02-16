@@ -1,6 +1,6 @@
 import csv
 import mysql.connector
-con = mysql.connector.connect(user='root', password='Tkswhgdk3308?', database = "data")
+con = mysql.connector.connect(user='root', password='root', database = "data")
 
 cur = con.cursor()
 
