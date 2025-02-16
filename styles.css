@@ -1,0 +1,25 @@
+body {
+    background-color: #bbd1ea;
+    color: #1e4773;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    text-align: center;
+    flex-direction: column;
+    }
+    
+    
+    .h1 {
+    font-size: 20px;
+    color: #75A0CE;
+    }
+    
+    
+    .iframe {
+    max-width: 100%;
+    width: 700px;
+    height: 520px;
+    border: none;
+    }
+    
